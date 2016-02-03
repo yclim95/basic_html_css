@@ -1,0 +1,37 @@
+    .red{
+     	color: #833;
+     }
+     .default_title{
+       font-size: 48px;
+       color: #833;
+       text-align: center;
+       background-color: #FFF000;
+     }
+
+     .container{
+     	width: 650px;
+     	margin: 10px;
+     }
+
+     body{
+     	margin: 0px;
+     }
+
+     section,
+     aside{
+     	margin: 10px;
+     }
+
+     section{
+     	float:left;
+     	width: 340px;
+     }
+
+     aside{
+     	float: right;
+     	width: 310px;
+     }
+
+     #trying{
+     	font-weight: bold;
+     }
